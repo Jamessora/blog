@@ -1,0 +1,3 @@
+class BookingsControllerTest < ApplicationSystemTestCase 
+    ...
+end
